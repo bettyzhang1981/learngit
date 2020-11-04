@@ -1,1 +1,3 @@
-Git add a file.gi
+Git add a file.
+
+git merge branch test
